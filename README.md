@@ -1,8 +1,31 @@
 # Decentralized-Thoughts
 
-# Quick Start
+Decentralized-Thoughts is a NEAR blockchain based project
+which includes creation of articles on NEAR blockchain.
 
-To run this project locally:
+This project includes following features -
+
+- Login with NEAR wallet
+- Creation of article by filling form details
+- View created articles under My Articles section
+- Navigate to NEAR Explorer
+- Logout
+
+![Landing Page](https://firebasestorage.googleapis.com/v0/b/facebook-clone-8d47f.appspot.com/o/readme%20image.png?alt=media&token=e1a819a2-9039-4055-84a9-c5e9328f1621)
+
+### Smart Contracts Used
+
+#### Change Method
+
+`create_article`
+
+#### View Method
+
+`get_articles`
+
+### Quick Start
+
+#### To run this project locally:
 
 1. Prerequisites: Make sure you've installed [Node.js] ≥ 12
 2. Install dependencies: `yarn install`
@@ -13,7 +36,7 @@ Now you'll have a local development environment backed by the NEAR TestNet!
 
 Go ahead and play with the app and the code. As you make code changes, the app will automatically reload.
 
-# Exploring The Code
+### Exploring The Code
 
 1. The "backend" code lives in the `/contract` folder. See the README there for
    more info.
@@ -24,7 +47,7 @@ Go ahead and play with the app and the code. As you make code changes, the app w
    contract. See `contract/README` for info about how it's tested. The frontend
    code gets tested with [jest]. You can run both of these at once with `yarn run test`.
 
-# Deploy
+### Deploy
 
 Every smart contract in NEAR has its [own associated account][near accounts]. When you run `yarn dev`, your smart contract gets deployed to the live NEAR TestNet with a throwaway account. When you're ready to make it permanent, here's how.
 

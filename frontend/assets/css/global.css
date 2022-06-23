@@ -25,6 +25,7 @@ body {
   padding: 80px 120px 0 80px;
   display: flex;
   justify-content: space-between;
+  height: 46vh;
 }
 .mainLeft {
   display: flex;
