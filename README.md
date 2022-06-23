@@ -17,6 +17,13 @@ This project includes following features -
 
 ![Landing Page](https://firebasestorage.googleapis.com/v0/b/facebook-clone-8d47f.appspot.com/o/readme%20image.png?alt=media&token=e1a819a2-9039-4055-84a9-c5e9328f1621)
 
+### Script and Technologies Used
+
+- Assembly Script for smart contract
+- React JS for frontend
+- CSS for styling
+- TypeScript and JavaScript as scripting language
+
 ### Smart Contracts Used In Project
 
 #### Change Method
