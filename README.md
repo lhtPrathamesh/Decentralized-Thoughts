@@ -16,6 +16,7 @@ This project includes following features -
 - Logout
 
 ![Landing Page](https://firebasestorage.googleapis.com/v0/b/facebook-clone-8d47f.appspot.com/o/readme%20image.png?alt=media&token=e1a819a2-9039-4055-84a9-c5e9328f1621)
+![Article Page](https://firebasestorage.googleapis.com/v0/b/facebook-clone-8d47f.appspot.com/o/readme%202.png?alt=media&token=6d765a28-a3ca-4631-8592-d26e70f35a6a)
 
 ### Script and Technologies Used
 
