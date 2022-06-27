@@ -1,6 +1,6 @@
-# Decentralized-Thoughts
+# Decentralized Thoughts
 
-Decentralized-Thoughts is a NEAR blockchain based project
+Decentralized Thoughts is a NEAR blockchain based project
 which includes creation of articles on NEAR blockchain.
 User can store their thoughts or unique articles on blockchain
 as decentralized data.
